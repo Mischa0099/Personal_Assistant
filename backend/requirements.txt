@@ -1,6 +1,6 @@
 Flask==3.0.3
 flask-cors==4.0.1
-transformers==4.38.3
+transformers==4.38.2
 torch==2.5.1
 spotipy==2.6.0
 google-api-python-client==2.160.0
